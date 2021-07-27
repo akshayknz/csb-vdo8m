@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://akshayknz.github.io/csb-vdo8m/static/css/main.01d31022.chunk.css",
-    "main.js": "https://akshayknz.github.io/csb-vdo8m/static/js/main.a6ee31d1.chunk.js",
-    "main.js.map": "https://akshayknz.github.io/csb-vdo8m/static/js/main.a6ee31d1.chunk.js.map",
+    "main.css": "https://akshayknz.github.io/csb-vdo8m/static/css/main.796efa0e.chunk.css",
+    "main.js": "https://akshayknz.github.io/csb-vdo8m/static/js/main.b0fd123f.chunk.js",
+    "main.js.map": "https://akshayknz.github.io/csb-vdo8m/static/js/main.b0fd123f.chunk.js.map",
     "runtime-main.js": "https://akshayknz.github.io/csb-vdo8m/static/js/runtime-main.4585c6e0.js",
     "runtime-main.js.map": "https://akshayknz.github.io/csb-vdo8m/static/js/runtime-main.4585c6e0.js.map",
     "static/css/2.e95bc1ad.chunk.css": "https://akshayknz.github.io/csb-vdo8m/static/css/2.e95bc1ad.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.a7527964.chunk.js.map": "https://akshayknz.github.io/csb-vdo8m/static/js/2.a7527964.chunk.js.map",
     "index.html": "https://akshayknz.github.io/csb-vdo8m/index.html",
     "static/css/2.e95bc1ad.chunk.css.map": "https://akshayknz.github.io/csb-vdo8m/static/css/2.e95bc1ad.chunk.css.map",
-    "static/css/main.01d31022.chunk.css.map": "https://akshayknz.github.io/csb-vdo8m/static/css/main.01d31022.chunk.css.map",
+    "static/css/main.796efa0e.chunk.css.map": "https://akshayknz.github.io/csb-vdo8m/static/css/main.796efa0e.chunk.css.map",
     "static/js/2.a7527964.chunk.js.LICENSE.txt": "https://akshayknz.github.io/csb-vdo8m/static/js/2.a7527964.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4585c6e0.js",
     "static/css/2.e95bc1ad.chunk.css",
     "static/js/2.a7527964.chunk.js",
-    "static/css/main.01d31022.chunk.css",
-    "static/js/main.a6ee31d1.chunk.js"
+    "static/css/main.796efa0e.chunk.css",
+    "static/js/main.b0fd123f.chunk.js"
   ]
 }
