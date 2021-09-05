@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://akshayknz.github.io/csb-vdo8m/static/css/main.e424e935.chunk.css",
-    "main.js": "https://akshayknz.github.io/csb-vdo8m/static/js/main.3e382810.chunk.js",
-    "main.js.map": "https://akshayknz.github.io/csb-vdo8m/static/js/main.3e382810.chunk.js.map",
-    "runtime-main.js": "https://akshayknz.github.io/csb-vdo8m/static/js/runtime-main.4585c6e0.js",
-    "runtime-main.js.map": "https://akshayknz.github.io/csb-vdo8m/static/js/runtime-main.4585c6e0.js.map",
+    "main.css": "https://akshayknz.github.io/csb-vdo8m/static/css/main.f3c4eced.chunk.css",
+    "main.js": "https://akshayknz.github.io/csb-vdo8m/static/js/main.bf771909.chunk.js",
+    "main.js.map": "https://akshayknz.github.io/csb-vdo8m/static/js/main.bf771909.chunk.js.map",
+    "runtime-main.js": "https://akshayknz.github.io/csb-vdo8m/static/js/runtime-main.f2daa13f.js",
+    "runtime-main.js.map": "https://akshayknz.github.io/csb-vdo8m/static/js/runtime-main.f2daa13f.js.map",
     "static/css/2.e95bc1ad.chunk.css": "https://akshayknz.github.io/csb-vdo8m/static/css/2.e95bc1ad.chunk.css",
-    "static/js/2.70d42cce.chunk.js": "https://akshayknz.github.io/csb-vdo8m/static/js/2.70d42cce.chunk.js",
-    "static/js/2.70d42cce.chunk.js.map": "https://akshayknz.github.io/csb-vdo8m/static/js/2.70d42cce.chunk.js.map",
+    "static/js/2.99b3c84f.chunk.js": "https://akshayknz.github.io/csb-vdo8m/static/js/2.99b3c84f.chunk.js",
+    "static/js/2.99b3c84f.chunk.js.map": "https://akshayknz.github.io/csb-vdo8m/static/js/2.99b3c84f.chunk.js.map",
     "index.html": "https://akshayknz.github.io/csb-vdo8m/index.html",
     "static/css/2.e95bc1ad.chunk.css.map": "https://akshayknz.github.io/csb-vdo8m/static/css/2.e95bc1ad.chunk.css.map",
-    "static/css/main.e424e935.chunk.css.map": "https://akshayknz.github.io/csb-vdo8m/static/css/main.e424e935.chunk.css.map",
-    "static/js/2.70d42cce.chunk.js.LICENSE.txt": "https://akshayknz.github.io/csb-vdo8m/static/js/2.70d42cce.chunk.js.LICENSE.txt"
+    "static/css/main.f3c4eced.chunk.css.map": "https://akshayknz.github.io/csb-vdo8m/static/css/main.f3c4eced.chunk.css.map",
+    "static/js/2.99b3c84f.chunk.js.LICENSE.txt": "https://akshayknz.github.io/csb-vdo8m/static/js/2.99b3c84f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4585c6e0.js",
+    "static/js/runtime-main.f2daa13f.js",
     "static/css/2.e95bc1ad.chunk.css",
-    "static/js/2.70d42cce.chunk.js",
-    "static/css/main.e424e935.chunk.css",
-    "static/js/main.3e382810.chunk.js"
+    "static/js/2.99b3c84f.chunk.js",
+    "static/css/main.f3c4eced.chunk.css",
+    "static/js/main.bf771909.chunk.js"
   ]
 }
